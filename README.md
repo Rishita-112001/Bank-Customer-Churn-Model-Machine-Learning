@@ -132,7 +132,7 @@ Each model was evaluated using:
 
 ## 📄 License
 
-MIT License © 2025 Rishita Verma[]
+MIT License © 2025 Rishita Verma[LICENSE]
 
 
 ## 👤 Author
